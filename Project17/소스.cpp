@@ -12,5 +12,5 @@ int main()
 			printf("%d", j);
 		} puts("");
 	} 
-
+	return 0;
 }
